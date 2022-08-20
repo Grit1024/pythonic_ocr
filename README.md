@@ -1,3 +1,5 @@
+# 对字母数字等手写识别，使用了flask等web，可供学习
+
 # Pythonic OCR
 [Website](https://pythonic-ocr.herokuapp.com/)
 
